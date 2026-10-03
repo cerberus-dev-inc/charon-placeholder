@@ -1,0 +1,14 @@
+{
+    "name": "cerberus-dev-inc/charon-placeholder",
+    "description": "Reserves the cerberus-dev-inc vendor name on Packagist. Contains no code. Charon CMS packages are not distributed through Packagist.",
+    "type": "metapackage",
+    "license": "proprietary",
+    "homepage": "https://www.cerberusdev.us",
+    "authors": [
+        {
+            "name": "Cerberus Development Inc.",
+            "homepage": "https://www.cerberusdev.us"
+        }
+    ],
+    "require": {}
+}
